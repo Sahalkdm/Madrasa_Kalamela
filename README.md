@@ -2,7 +2,8 @@
 
 An end-to-end web platform for managing a local arts festival, developed using **Next.js**, **MongoDB**, and **Tailwind CSS**. The application simplifies the full event lifecycle—from registration to result declaration and leaderboard generation.
 
-https://madrasa-kalamela-2024.vercel.app/
+[Link to website](https://madrasa-kalamela-2024.vercel.app/)
+
 ---
 
 ## 🔧 Features
